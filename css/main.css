@@ -141,7 +141,8 @@ body {
 
 .closebtn {
 	position: absolute;
-	left: 230px;
+	left: 170px;
+	top: -10px;
 	cursor: pointer;
 	font-size: 30px;
 	color: white;
